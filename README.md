@@ -1,5 +1,5 @@
-# trace-element-downsampling
-Code used to bin high-resolution speleothem trace-element data to the stable-isotope sample depths for the SISALv3 database: averages (and standard deviations) of all trace-element measurements within each stable-isotope sample's depth interval.
+# trace element downsampling
+Code used to bin high-resolution speleothem trace element data to the stable isotope sample depths for the SISALv3 database: averages of all trace-element measurements within each stable-isotope sample's depth interval.
 
 Author: Vanessa Skiba
 Original publication: Skiba, V. (2023). SISALv3 trace element downsampling code [Software]. Zenodo. https://doi.org/10.5281/zenodo.8234066 (CC-BY-4.0)
